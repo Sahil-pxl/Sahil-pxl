@@ -1,4 +1,4 @@
-## Hi there 👋# Hi 👋, I'm Sahil
+# Hi 👋, I'm Sahil
 
 ### Software Dev
 
