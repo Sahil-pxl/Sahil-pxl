@@ -61,7 +61,7 @@
 
 ### Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,django,spring,html,css,tailwind,bootstrap,sass,mongodb,mysql,postgres,redis,docker,aws,git,linux,postman,tensorflow" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,django,spring,html,css,tailwind,bootstrap,sass,mongodb,mysql,postgres,redis,docker,aws,git,linux,postman,tensorflow" align="center" />
 
 </div>
 
