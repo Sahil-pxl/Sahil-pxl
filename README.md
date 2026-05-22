@@ -61,7 +61,23 @@
 
 ### Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,django,spring,html,css,tailwind,bootstrap,sass,mongodb,mysql,postgres,redis,docker,aws,git,linux,postman,tensorflow" align="center" />
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+
+<br>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,nodejs,express" />
+
+<br>
+
+<!-- Backend / Database -->
+<img src="https://skillicons.dev/icons?i=django,spring,mongodb,mysql,postgres,redis" />
+
+<br>
+
+<!-- DevOps / Tools / AI -->
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman,tensorflow" />
 
 </div>
 
