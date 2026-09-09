@@ -1,123 +1,155 @@
 <div align="center">
 
+# Hi 👋, I'm Sahil
+
+### Software Developer | Full Stack Developer | Backend Developer
+
+<img src="https://komarev.com/ghpvc/?username=Sahil-pxl&label=Profile%20views&color=0e75b6&style=flat" alt="Sahil-pxl" />
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Development+Enthusiast;Building+AI+Powered+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+### About Me
+
+🔭 I'm currently working on **AI Powered Full-stack Applications**
+
+👯 I'm looking to collaborate on **Open Source Projects**
+
+💬 Ask me about **Java, JavaScript, React, Node.js, Python, SQL**
+
+📫 How to reach me **sahil.prasad0912@gmail.com**
+
+⚡ Fun fact: **I enjoy turning ideas into real-world web applications**
+
+</div>
+
+---
+
+<div align="center">
+
+### Connect with me
+
+<a href="https://github.com/Sahil-pxl" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/sahil-prasad-743544234" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/byeesahil" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/Sahil-Prasad22" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="45" height="45"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ### Languages and Tools
 
-<br>
+<br/>
 
-#### 💻 Programming Languages
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=java" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" width="50" />
-  <img src="https://skillicons.dev/icons?i=js" width="50" />
-  <img src="https://skillicons.dev/icons?i=ts" width="50" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" />
-</p>
+<br/><br/>
 
-<p>
-  <b>Java</b>&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;
-  <b>TypeScript</b>&nbsp;&nbsp;&nbsp;
-  <b>Python</b>&nbsp;&nbsp;&nbsp;
-  <b>HTML5</b>&nbsp;&nbsp;&nbsp;
-  <b>CSS3</b>
-</p>
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=react" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sass" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" />
 
-<br>
+<br/><br/>
 
-#### 🎨 Frontend Development
+<!-- Row 3 -->
+<img src="https://skillicons.dev/icons?i=django" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
-  <img src="https://skillicons.dev/icons?i=sass" width="50" />
-</p>
+<br/><br/>
 
-<p>
-  <b>React</b>&nbsp;&nbsp;&nbsp;
-  <b>Tailwind CSS</b>&nbsp;&nbsp;&nbsp;
-  <b>Bootstrap</b>&nbsp;&nbsp;&nbsp;
-  <b>Sass</b>
-</p>
+<!-- Row 4 -->
+<img src="https://skillicons.dev/icons?i=docker" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
-<br>
+</div>
 
-#### ⚙️ Backend Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
-  <img src="https://skillicons.dev/icons?i=express" width="50" />
-  <img src="https://skillicons.dev/icons?i=django" width="50" />
-  <img src="https://skillicons.dev/icons?i=spring" width="50" />
-</p>
+<div align="center">
 
-<p>
-  <b>Node.js</b>&nbsp;&nbsp;&nbsp;
-  <b>Express.js</b>&nbsp;&nbsp;&nbsp;
-  <b>Django</b>&nbsp;&nbsp;&nbsp;
-  <b>Spring Boot</b>
-</p>
+### GitHub Stats
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Sahil-pxl&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Stats" />
 
-#### 🗄️ Databases & Caching
+<br/>
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="50" />
-  <img src="https://skillicons.dev/icons?i=redis" width="50" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-pxl&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Streak" />
 
-<p>
-  <b>MongoDB</b>&nbsp;&nbsp;&nbsp;
-  <b>MySQL</b>&nbsp;&nbsp;&nbsp;
-  <b>PostgreSQL</b>&nbsp;&nbsp;&nbsp;
-  <b>Redis</b>
-</p>
+<br/>
+<br/>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-pxl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-#### ☁️ DevOps & Cloud
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" width="50" />
-  <img src="https://skillicons.dev/icons?i=aws" width="50" />
-  <img src="https://skillicons.dev/icons?i=linux" width="50" />
-</p>
+---
 
-<p>
-  <b>Docker</b>&nbsp;&nbsp;&nbsp;
-  <b>AWS</b>&nbsp;&nbsp;&nbsp;
-  <b>Linux</b>
-</p>
+<div align="center">
 
-<br>
-
-#### 🛠️ Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="50" />
-  <img src="https://skillicons.dev/icons?i=postman" width="50" />
-</p>
-
-<p>
-  <b>Git</b>&nbsp;&nbsp;&nbsp;
-  <b>Postman</b>
-</p>
-
-<br>
-
-#### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" />
-</p>
-
-<p>
-  <b>TensorFlow</b>
-</p>
+### Keep Building 🚀
 
 </div>
